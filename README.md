@@ -46,3 +46,8 @@ This project uses java GUI to control a house using built with arduino microcont
      ~ Create database using mysql and add a table with username and password raws
      ~ Configure the database name, username and password LogIn.java file line 66
      ~ now you can control the your house using Java GUI
+
+## How does the project work
+   I made the java project to send the command to the arduino in two ways:
+     Jserialcomm library ~ Java library that is used to connect arduino with java project through the port.
+     Process builder ~ Java class is used to create operating system processes.
