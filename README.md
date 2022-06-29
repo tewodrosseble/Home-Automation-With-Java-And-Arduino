@@ -49,5 +49,6 @@ This project uses java GUI to control a house using built with arduino microcont
 
 ## How does the project work
    I made the java project to send the command to the arduino in two ways:
-     Jserialcomm library ~ Java library that is used to connect arduino with java project through the port.
-     Process builder ~ Java class is used to create operating system processes.
+   
+       Jserialcomm library ~ Java library that is used to connect arduino with java project through the port.
+       Process builder ~ Java class is used to create operating system processes.
