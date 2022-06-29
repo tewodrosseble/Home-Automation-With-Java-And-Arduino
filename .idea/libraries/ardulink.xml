@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ardulink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries/ardulink.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/RXTXcomm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
